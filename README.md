@@ -23,17 +23,21 @@ If you're on Mac with OS X 10.5 or above, congrats &mdash; you have basically ev
 
 == OK, I've got it. Now what?
 
-* Check out the example templates in `TUMBLYZER_ROOT/templates/`
+* Check out the example themes in `TUMBLYZER_ROOT/themes/`
 * Open a command prompt and navigate to `TUMBLYZER_ROOT`, then run `rake test`
-  to watch all the tests run on all the templates
-* Create your own template in `TUMBLYZER_ROOT/templates/` and run `rake test`
+  to watch all the tests run on all the themes
+* Create your own template in `TUMBLYZER_ROOT/themes/` and run `rake test`
   again. Do the tests pass? If you're not as opinionated as us about the
   "right" way to write HTML, try `rake test:bare_minimum`.
 
-== Can I use the templates included in the project?
+== Can I use the themes included in the project?
 
-YES! All templates are licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/ "Creative Commons &mdash; Attribution 3.0 Generic") license.
+YES! All themes are licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/ "Creative Commons &mdash; Attribution 3.0 Generic") license.
 
-== Will you put my theme in the example templates folder?
+== Will you put my theme in the example themes folder?
 
-Sure, so long as you license it under the CC-BY license. Oh, and it has to pass _all_ the bare_minimum tests.
+We'd be glad to have it so long as you license it under the CC-BY license. Oh, and it has to pass _all_ the bare_minimum tests.
+
+== Can I use the project code?
+
+All code (everything that _isn't_ in the `themes/` folder) is licensed under the MIT license. Have at!
