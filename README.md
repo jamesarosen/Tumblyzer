@@ -32,7 +32,7 @@ If you're on Mac with OS X 10.5 or above, congrats &mdash; you have basically ev
 
 == Can I use the templates included in the project?
 
-YES! All templates are licensed under the [Creative Commons Attribution 2.0 license](http://creativecommons.org/licenses/by/2.0/ "Creative Commons &mdash; Attribution 2.0 Generic") license.
+YES! All templates are licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/ "Creative Commons &mdash; Attribution 3.0 Generic") license.
 
 == Will you put my theme in the example templates folder?
 
