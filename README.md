@@ -8,7 +8,7 @@ Tumblyzer is intended for website designers who want to produce Tumblr themes. I
 
 == How do I get Tumblyzer?
 
-If you're on Mac with OS X 10.5 or above, congrats &mdash; you have basically everything you need already installed. If you're on Windows or Unix, you'll need to install Ruby and Rubygems. Once you're done with that, ask yourself: "self, how well do you know Git?".
+If you're on Mac with OS X 10.5 or above, congrats &mdash; you have basically everything you need already installed. If you're on Windows or Unix, you'll need to install [Ruby](http://www.ruby-lang.org/en/ "Ruby Programming Language") and [RubyGems](http://rubygems.org/ "RubyGems -- your guide to packaging bliss"). Once you're done with that, ask yourself: "self, how well do you know Git?".
 
 === "What's Git?"
 
